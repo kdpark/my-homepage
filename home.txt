@@ -1,7 +1,5 @@
-hello
+hello ! Nice to meet you
+I'm Kyudong Park, Ph.D Candidate.
+I'm interested at Social, Mobile and Future IT.
 
-I'm Kyudong Park.
-
-Graduate student at POSTECH.
-
-Creative IT Engineering
+Creative IT Engineering, POSTECH.
